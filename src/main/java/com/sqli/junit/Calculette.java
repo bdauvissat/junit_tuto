@@ -6,8 +6,8 @@ public abstract class Calculette {
 
 	/**
 	 * Méthode d'addition
-	 * @param Première valeur à additionner
-	 * @param Seconde valeur à additionner
+	 * @param val1 Premiere valeur à additionner
+	 * @param val2 Seconde valeur à additionner
 	 * @return Résultat de l'opération
 	 */
 	public static BigDecimal addition(BigDecimal val1, BigDecimal val2) {
